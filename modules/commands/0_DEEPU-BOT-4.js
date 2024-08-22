@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "PREM-BOT-4",
+  name: "DEEPU-BOT-4",
   version: "1.0.1",
   hasPermission: 0,
   credits: "PREM BABU",
