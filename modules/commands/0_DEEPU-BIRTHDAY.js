@@ -4,11 +4,10 @@ module.exports.config = {
   hasPermssion: 0,
   credits: "PREM BABU",
   description: "THIS BOT IS MADE BY PREM BABU",
-  usePrefix: true,
   commandCategory: "PROFILE DP",
   usages: "SELF DP AND MENTION",
   dependencies: {
-        "axios": ""
+        "axios": "",
         "fs-extra": ""
   },
   cooldowns: 0
